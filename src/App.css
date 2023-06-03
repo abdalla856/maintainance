@@ -68,3 +68,9 @@
 
 }
 
+@media (max-width: 480px) {
+  .background {
+      background-image: url("mobile.png");
+
+  }
+}
